@@ -5,7 +5,9 @@ class Demo2
 	{
 		System.out.println("test test test");
 		int i=0;
-		int j=;
+		
+		
+		int j=9;
 
 	}
 }
